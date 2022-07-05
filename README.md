@@ -3,7 +3,7 @@
 <!-- LOGO DO PROJETO -->
 <h1 align="center">
   <br>
-  <a href="https://github.com/JonathanTSilva/<REPO>"><img src="https://img.freepik.com/fotos-gratis/bandeira-do-brasil-fundo_135932-1335.jpg" alt="Logo" width="200"></a>
+  <a href="https://github.com/JonathanTSilva/<REPO>"><img src="Images/cheatsheet-logo.jpg" alt="Logo" width="200"></a>
   <br>
   OD-Cheatsheets
   <br>
@@ -11,7 +11,7 @@
 
 <h4 align="center">
   
-🌐 Descrição.
+🌐 Lots of basic, easy and compact cheatsheets to make your learning easier..
   
 </h4>
 
