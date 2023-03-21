@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td>
-    Resumo. [EMOJI]
+    Este projeto foi desenvolvido com o objetivo de agrupar diversos cheatsheets relacionados à área de softwares e sistemas. :tophat:
       <details open>
       <summary>Informações adicionais</summary>
       <br>
