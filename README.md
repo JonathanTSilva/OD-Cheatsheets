@@ -63,6 +63,10 @@
 
 - [ex1](https://github.com/JonathanTSilva)
   - [ex1](https://github.com/JonathanTSilva)
+- [Visual Studio Code]
+- [Linux]
+- [Terminal do Linux]
+- [Vim]
 
 ## 🤝 Contribuindo
 
